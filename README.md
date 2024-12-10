@@ -12,27 +12,32 @@ The repository contains the following files:
 - data/: Placeholder for the dataset (not included for privacy reasons).
 - README.md: Documentation for the project.
 
+Due to large file size, the model checkpoint weights are uploaded [here](https://drive.google.com/drive/folders/1BiCJbrk7mDmdzf1-MjMOd9mrQ0MzCljj?usp=drive_link)
+
 ## Installation
 To run this project, ensure you have Python 3.x installed. Follow the steps below:
 
 ## Clone the repository:
-
+```
 bash
 Copy code
 git clone https://github.com/samikshardixit/SML-Tuberculosis-detection.git
 cd tuberculosis-detection
 Create a virtual environment (optional but recommended):
-
+```
+```
 bash
 Copy code
 python -m venv env
 source env/bin/activate  # On Windows, use `env\Scripts\activate`
 Install the required dependencies:
-
+```
+```
 bash
 Copy code
 pip install -r requirements.txt
 (Ensure requirements.txt lists all necessary libraries, such as scikit-learn, pandas, numpy, matplotlib, etc.)
+```
 
 ## Usage
 Load the Jupyter Notebook
@@ -77,6 +82,6 @@ Copy code
 git push origin feature-name
 Open a pull request.
 References
-Dataset: [Dataset 1] (https://www.kaggle.com/datasets/iamtapendu/chest-x-ray-lungs-segmentation?select=MetaData.csv) [Dataset 2] (https://www.kaggle.com/datasets/beosup/lung-segment?select=masks) [Dataset 3] (https://www.kaggle.com/datasets/nih-chest-xrays/data)
+Dataset: [Dataset 1](https://www.kaggle.com/datasets/iamtapendu/chest-x-ray-lungs-segmentation?select=MetaData.csv) [Dataset 2](https://www.kaggle.com/datasets/beosup/lung-segment?select=masks) [Dataset 3](https://www.kaggle.com/datasets/nih-chest-xrays/data)
 Libraries: scikit-learn, pandas, matplotlib
 
