@@ -58,12 +58,12 @@ Parameter Tuning (Optional)
 Customize the hyperparameters in the model training section to experiment with different configurations.
 
 ## Results
-The best-performing model was Random Forest, which achieved:
+The performance of U-Net with exception is:
 
 F1 - Score: 0.67
 Precision: 0.95
 Recall: 0.56
-Other models, such as Logistic Regression and SVM, were tested but did not perform as well. 
+
 
 We welcome contributions to enhance this project! To contribute:
 
