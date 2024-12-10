@@ -12,7 +12,7 @@ The repository contains the following files:
 - data/: Placeholder for the dataset (not included for privacy reasons).
 - README.md: Documentation for the project.
 
-Due to large file size, the model checkpoint weights are uploaded [here](https://drive.google.com/drive/folders/1BiCJbrk7mDmdzf1-MjMOd9mrQ0MzCljj?usp=drive_link)
+Due to large file size, the model checkpoint weights are uploaded [here](https://drive.google.com/file/d/1NLqfY8pZ2xIPkDZX6et4JjGANwUQ_Un2/view?usp=drive_link)
 
 ## Installation
 To run this project, ensure you have Python 3.x installed. Follow the steps below:
